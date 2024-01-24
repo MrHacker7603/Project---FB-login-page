@@ -11,7 +11,7 @@ html {
 }
 body{
 font-family: "myfont",sans-serif;
-background:linear-gradient(-10 deg ,#FFF9F3,#FBF1FA,#e6f4ff);
+background:linear-gradient(to left,#FFF9F3,#FBF1FA,#e6f4ff);
 }
 .main_container{
   height:100%;
